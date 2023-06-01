@@ -14,5 +14,6 @@ This project demonstrates how to use Git and GitHub effectively.
 
 ## Contributing
 
-Contributions are welcome! Please follow the guidelines for pull requests.
+Contributions are welcome! Please follow the guidelines for pull requests and commit your changes.
+
 
